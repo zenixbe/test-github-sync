@@ -5,7 +5,7 @@
  * Description: Adds "Hello World" text before the header on every page.
  * Version: 1.0
  * Author: Your Name
- * GitHub Plugin URI: zenixbe/test-github-sync
+ * Plugin URI: https://github.com/zenixbe/test-github-sync
  */
 
 // Function to output "Hello World" text

@@ -1,12 +1,17 @@
 <?php
 
 /**
- * Plugin Name: Hello World Header
- * Description: Adds "Hello World" text before the header on every page.
- * Version: 1.1
- * Author: Your Name
- * Plugin URI: https://github.com/zenixbe/test-github-sync
+ * Plugin Name:       Hello world header
+ * Plugin URI:        https://github.com/zenixbe/test-github-sync
+ * Description:       A plugin to automatically update GitHub, Bitbucket or GitLab hosted plugins and themes. It also allows for remote installation of plugins or themes into WordPress.
+ * Version:           10.0.0
+ * Author:            Andy Fragen
+ * License:           MIT
+ * Text Domain:       helloworldheader
+ * GitHub Plugin URI: https://github.com/zenixbe/test-github-sync
  */
+
+
 
 // Function to output "Hello World" text
 function add_hello_world_text()

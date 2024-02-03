@@ -4,7 +4,7 @@
  * Plugin Name:       Hello world header
  * Plugin URI:        https://github.com/zenixbe/test-github-sync
  * Description:       A plugin to automatically update GitHub, Bitbucket or GitLab hosted plugins and themes. It also allows for remote installation of plugins or themes into WordPress.
- * Version:           10.0.4
+ * Version:           10.0.5
  * Author:            Andy Fragen
  * License:           MIT
  * Text Domain:       helloworldheader
@@ -16,7 +16,7 @@
 // Function to output "Hello World" text
 function add_hello_world_text()
 {
-    echo '<div id="hello-world-text" style="margin-top: 100px;">Hello world</div>';
+    echo '<div id="hello-world-text" style="margin-top: 100px;">Hello didier</div>';
 }
 
 // Hook the function to an action that runs before the header

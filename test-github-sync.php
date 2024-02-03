@@ -4,7 +4,7 @@
  * Plugin Name:       Hello world header
  * Plugin URI:        https://github.com/zenixbe/test-github-sync
  * Description:       A plugin to automatically update GitHub, Bitbucket or GitLab hosted plugins and themes. It also allows for remote installation of plugins or themes into WordPress.
- * Version:           10.0.0
+ * Version:           10.0.1
  * Author:            Andy Fragen
  * License:           MIT
  * Text Domain:       helloworldheader

@@ -16,7 +16,7 @@
 // Function to output "Hello World" text
 function add_hello_world_text()
 {
-    echo '<div id="hello-world-text" style="margin-top: 100px;">Hello World sync</div>';
+    echo '<div id="hello-world-text" style="margin-top: 100px;">Hello didier sync</div>';
 }
 
 // Hook the function to an action that runs before the header

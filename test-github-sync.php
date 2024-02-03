@@ -25,7 +25,7 @@ add_action('wp_body_open', 'add_hello_world_text');
 // Function to add custom CSS
 function hello_world_custom_styles()
 {
-    echo '<style>#hello-world-text { margin-top: 100px; }</style>';
+    echo '<style>#hello-world-text { margin-top: 100px; color:white; }</style>';
 }
 
 // Hook for adding custom styles

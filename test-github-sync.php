@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Hello World Header
  * Description: Adds "Hello World" text before the header on every page.
- * Version: 1.0
+ * Version: 1.1
  * Author: Your Name
  * Plugin URI: https://github.com/zenixbe/test-github-sync
  */
